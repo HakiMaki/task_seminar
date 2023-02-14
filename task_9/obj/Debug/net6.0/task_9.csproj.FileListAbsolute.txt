@@ -1,0 +1,15 @@
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.csproj.AssemblyReference.cache
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.AssemblyInfoInputs.cache
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.AssemblyInfo.cs
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Desktop/task_sem/task_9/bin/Debug/net6.0/task_9
+/Users/hakimazisov/Desktop/task_sem/task_9/bin/Debug/net6.0/task_9.deps.json
+/Users/hakimazisov/Desktop/task_sem/task_9/bin/Debug/net6.0/task_9.runtimeconfig.json
+/Users/hakimazisov/Desktop/task_sem/task_9/bin/Debug/net6.0/task_9.dll
+/Users/hakimazisov/Desktop/task_sem/task_9/bin/Debug/net6.0/task_9.pdb
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.dll
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/refint/task_9.dll
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.pdb
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/task_9.genruntimeconfig.cache
+/Users/hakimazisov/Desktop/task_sem/task_9/obj/Debug/net6.0/ref/task_9.dll
